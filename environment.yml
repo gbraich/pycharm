@@ -1,0 +1,19 @@
+name: test
+channels:
+  - conda-forge
+  - defaults
+  - claut
+dependencies:
+  - xesmf
+  - dask
+  - cftime
+  - jupyter
+  - intake
+  - intake-esm
+  - gcsfs
+  - matplotlib
+  - rpy2
+  - xclim
+  - clisops
+  - nc-time-axis
+prefix: /Users/Ginni/opt/anaconda3/envs/test
