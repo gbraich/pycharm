@@ -1,4 +1,5 @@
 numpy
+esmpy=8.0.0
 xesmf
 intake
 xclim
