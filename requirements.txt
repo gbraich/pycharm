@@ -1,0 +1,9 @@
+numpy
+xesmf
+intake
+xclim
+xarray
+matplotlib
+cftime
+nc_time_axis
+
