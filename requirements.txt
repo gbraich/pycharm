@@ -1,5 +1,5 @@
-esmpy
 xesmf
+esmpy
 dask
 numpy
 intake
