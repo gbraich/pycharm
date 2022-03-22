@@ -1,6 +1,6 @@
-numpy
-esmpy==8.0.0
+esmpy
 xesmf
+numpy
 intake
 xclim
 xarray
